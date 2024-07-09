@@ -48,3 +48,8 @@ python src/metaadapt.py --source_data_path=PATH/TO/FEVER --source_data_type=feve
 
 
 ## Performance
+![image](https://github.com/Clound-Computing/2021290209/assets/133028358/9d39c141-f185-4d84-818f-14d5a8756e68)
+
+## Acknowledgement
+
+During the implementation we base our code mostly on [Transformers](https://github.com/huggingface/transformers) from Hugging Face and [MetaST](https://github.com/microsoft/MetaST) by Wang et al. Many thanks to these authors for their great work!
