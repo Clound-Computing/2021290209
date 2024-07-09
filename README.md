@@ -51,4 +51,4 @@ python src/metaadapt.py --source_data_path=PATH/TO/FEVER --source_data_type=feve
 
 ## Acknowledgement
 
-在实现过程中，我们的代码主要基于 [Transformers](https://github.com/huggingface/transformers) from Hugging Face and [MetaST](https://github.com/microsoft/MetaST) by Wang et al. Many thanks to these authors for their great work!
+在实现过程中，我们的代码主要基于 [Transformers](https://github.com/huggingface/transformers) from Hugging Face and [MetaST](https://github.com/microsoft/MetaST) by Wang et al. 非常感谢这些作者的伟大工作!
